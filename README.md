@@ -1,7 +1,5 @@
 # Mavis DDoS
-# Versão
-## 1.0.09.01.24
-# BY: WHITE HORSE
+### 1.0.09.01.24
 
 ## Visão geral
 
