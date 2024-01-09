@@ -1,4 +1,4 @@
-# Mavis DDoS Tool
+# Mavis DDoS
 
 ## Visão geral
 
