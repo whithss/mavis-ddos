@@ -24,14 +24,10 @@ Mavis DDoS é uma ferramenta desenvolvida apenas para fins educacionais. Ele sim
     cd mavis-ddos
     ```
 
-3. Dê permissão pro script de instalação:
+3. Execute o script de instalação:
 
     ```bash
-       chmod +x install.sh
-    ```
-4. Inície a instalação
-```bash
-bash install.sh
+    chmod +x install.sh && bash install.sh
     ```
 
 ## Use
@@ -48,7 +44,7 @@ bash install.sh
 
 ## Isenção de responsabilidade
 
-Mavis DDoS destina-se apenas a fins educacionais. Uso não autorizado é estritamente proibido. Os desenvolvedores não são responsáveis ​​por qualquer uso indevido ou dano causado por esta ferramenta.
+Mavis DDoS destina-se apenas a fins educacionais. Uso não autorizado é estritamente proibido. Os desenvolvedores não são responsáveis por qualquer uso indevido ou dano causado por esta ferramenta.
 
 ## Contribuição
 
