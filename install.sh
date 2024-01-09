@@ -9,4 +9,3 @@ clear
 pip install scapy
 clear
 echo "Instalação completa"
-rm -rf install.sh
