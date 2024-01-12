@@ -1,3 +1,10 @@
+clear
+echo " █▀▄▀█ █▀▀█ ▀█░█▀ ░▀░ █▀▀"
+echo " █▒█▒█ █▄▄█ ░█▄█░ ▀█▀ ▀▀█"
+echo " █░░▒█ ▀░░▀ ░░▀░░ ▀▀▀ ▀▀▀"
+echo " █▀▀▄ █▀▀▄ █▀▀█ █▀▀"
+echo " █░░█ █░░█ █░░█ ▀▀█"
+echo " ▀▀▀░ ▀▀▀░ ▀▀▀▀ ▀▀▀"
 echo "Iniciando  instalação"
 sleep 1 
 pkg install python -y 
